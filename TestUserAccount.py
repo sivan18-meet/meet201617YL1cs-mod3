@@ -1,5 +1,5 @@
 #This script performs some simple tests on the UserAccount class.
-import UserAccount
+from UserAccount import UserAccount
 
 my_username="sivanbm"
 my_password="helloworld"
